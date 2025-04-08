@@ -6,6 +6,9 @@ PDF Materials from DataCamp Tracks AI in: ./work_yadisk/python4data/ai_tracks_ma
 
 ## Track Developing AI Application
 
+
+
+
 ### OPENAI API introduction
 
 
